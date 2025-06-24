@@ -35,7 +35,7 @@ The bot consists of two main components:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/arbitrage-bot.git
+git clone https://github.com/Igamingdev1/arbitrage-bot.git
 cd arbitrage-bot
 
 # Install dependencies
